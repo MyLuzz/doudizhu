@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fight Against Landlord.CSharp", "Fight Against Landlord.CSharp.csproj", "{E8480B2B-28ED-ED37-8BA8-08AB95F07ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fight Against Landlord.CSharp.Editor", "Fight Against Landlord.CSharp.Editor.csproj", "{6ABDBE74-1009-F066-938E-13CD19F2F6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8480B2B-28ED-ED37-8BA8-08AB95F07ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8480B2B-28ED-ED37-8BA8-08AB95F07ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8480B2B-28ED-ED37-8BA8-08AB95F07ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8480B2B-28ED-ED37-8BA8-08AB95F07ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABDBE74-1009-F066-938E-13CD19F2F6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABDBE74-1009-F066-938E-13CD19F2F6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABDBE74-1009-F066-938E-13CD19F2F6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABDBE74-1009-F066-938E-13CD19F2F6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
